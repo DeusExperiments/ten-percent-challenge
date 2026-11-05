@@ -12,4 +12,6 @@ Small, just as good, and still learning.
 4. **Pass an exam it never saw.** Set aside a held-out, unseen subset before you begin. Keep it locked away until the very end, and never use it to build or to choose.
 5. **Let it grow with user feedback.** It learns the new and keeps the old, still with no weight training, and it still passes the locked exam.
 
+Only the first person to submit a complete, working proof of beating the challenge qualifies.
+
 How would you do it?
