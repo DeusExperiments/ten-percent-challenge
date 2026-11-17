@@ -6,6 +6,10 @@ Small, just as good, and still learning.
 
 **Prize: 1,000 USD** for the best complete, working proof submitted by the deadline.
 
+## Outcome
+
+Submissions closed on 12 November 2026 at 17:05 UTC. Eleven entries were submitted across issues #2 to #12 and reviewed against the rules above, including maintainer reruns on held-out data where an entry passed on its own exam. No submission passed every rule and the maintainer's check, so the prize goes unclaimed. Individual reviews are on each issue.
+
 ## The challenge
 
 1. **Start from one trained model.** Any model is fine, as long as it is above 0.5B parameters, either before or after you cut it. Pick a commercial-class task: anything commercial or of decent utility, nothing toy-shaped and nothing with a really narrow distribution. The model already does the job, and its score is the bar to meet.
@@ -32,6 +36,6 @@ Ship the artifact, the locked files, one command that answers questions and one 
 
 ## Submit
 
-Submit your proof by [opening a GitHub issue](https://github.com/DeusExperiments/ten-percent-challenge/issues/new) on this repo by **12 November 2026, 17:05 UTC** (7 days from [the announcement](https://x.com/tokenbender/status/2118389310982643779)). Entries stay open until the deadline. Among the entries that pass every rule, the best one wins the prize.
+Submit your proof by opening a GitHub issue on this repo by **12 November 2026, 17:05 UTC** (7 days from [the announcement](https://x.com/tokenbender/status/2118389310982643779)). Entries stay open until the deadline. Among the entries that pass every rule, the best one wins the prize.
 
 How would you do it?
